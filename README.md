@@ -10,4 +10,5 @@ ERD:
 ![meal-planner-erd](https://github.com/user-attachments/assets/a1d2c825-6709-46d2-bcb3-4c721cd27bd1)
 
 Endpoints: 
+
 ![meal-planner-endpoints](https://github.com/user-attachments/assets/9981edf4-621e-4fa9-987f-938cd7877176)
