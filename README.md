@@ -4,6 +4,8 @@ Developed a meal planning app as a backend developer using Java, Spring Boot, Po
  
  Built a meal planning app allowing users to create and manage weekly meal plans, generate grocery lists, and view recipes in a user-friendly and secure interface
 ​
+
+
 Link to Documentation: https://nlr-21-purple-meal-planner.atlassian.net/wiki/external/MTQ3MjU5N2U0NWY3NGYyYzhkNTczYTFiMTZiNGYwNzQ
 
 ERD: 
